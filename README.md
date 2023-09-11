@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiffanystephan
 - 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning Python on Codecademy and Salesforce on Trailhead
+- 🌱 I’m a Salesforce Certified Consultant
 
 
 <!---
